@@ -1,5 +1,5 @@
 # Sales_dashboard
- It containing sales details, customer details, product details, oreder details files.
+ It containing sales details, customer details, product details and order details files.
  The information we get by seeing the dashboard are:
  1. Total sales
  2. Sales by state and category
