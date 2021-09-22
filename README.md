@@ -1,7 +1,10 @@
 # Sales_dashboard
+
+![](banner-4.png)
+ 
  It containing sales details, customer details, product details and order details files.
  The information we get by seeing the dashboard are:
- 1. Total sales
- 2. Sales by state and category
- 3. Sales and cost by sub-category
- 4. Sales by months
+ - Total sales
+ - Sales by state and category
+ - Sales and cost by sub-category
+ - Sales by months
